@@ -5,6 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
+    "star":  "pretty-ms"
   },
   "dependencies": {
     "discord.js": "^11.4.2",
